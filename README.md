@@ -1,0 +1,2 @@
+# nummanip
+go module example
